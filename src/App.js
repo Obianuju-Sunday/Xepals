@@ -13,8 +13,8 @@ function App() {
       <div className='flex justify-center items-center py-3 px-6'>
 
         <div className='relative items-center overlap'>
-          <img src={pos} alt="xepals-logo" className='sm:hidden md:hidden py-8 absolute z-10' />
-          <img src={human} alt="A smiling lady on her phone" className='mr-20 sm:hidden md:hidden bottom-0 left-0 z-0' />
+          <img src={pos} alt="xepals-logo" className=' py-8 absolute z-10' />
+          <img src={human} alt="A smiling lady on her phone" className='mr-20 bottom-0 left-0 z-0' />
         </div>
 
 
