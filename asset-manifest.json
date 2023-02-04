@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/%7BXepals%7D%20%20/static/css/main.1b908b28.css",
+    "main.js": "/%7BXepals%7D%20%20/static/js/main.8f6be0ee.js",
+    "static/media/image 6.png": "/%7BXepals%7D%20%20/static/media/image 6.74474f5fc2ef38ba5c53.png",
+    "static/media/xepals-pic.png": "/%7BXepals%7D%20%20/static/media/xepals-pic.d44dd0575504ad7c16da.png",
+    "static/media/LOGO.png": "/%7BXepals%7D%20%20/static/media/LOGO.16b5db5d0d5cdc6eeaf2.png",
+    "index.html": "/%7BXepals%7D%20%20/index.html",
+    "main.1b908b28.css.map": "/%7BXepals%7D%20%20/static/css/main.1b908b28.css.map",
+    "main.8f6be0ee.js.map": "/%7BXepals%7D%20%20/static/js/main.8f6be0ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b908b28.css",
+    "static/js/main.8f6be0ee.js"
+  ]
+}
